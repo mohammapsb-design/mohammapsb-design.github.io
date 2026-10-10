@@ -1,6 +1,6 @@
 <!-- این یک کامنت مخفیه که در صفحه‌ی گیت‌هاب دیده نمی‌شه 🙈 -->
 
-<div align="center">
+<div align="center" markdown="1">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pulse&fontSize=80&fontAlignY=38&desc=مانیتور%20سیستم%20سریع،%20سبک%20و%20زیبا%20در%20ترمینال&descAlignY=60&animation=fadeIn" alt="Pulse banner" width="100%"/>
 
@@ -40,7 +40,7 @@
 
 </div>
 
-<div dir="rtl">
+<div dir="rtl" markdown="1">
 
 <a name="top"></a>
 
@@ -114,8 +114,8 @@ H<sub>2</sub>O و E = mc<sup>2</sup> هم از نوشتن بالانویس و ز
   - [ ] پیاده‌سازی API
   - [ ] نسخه‌ی موبایل
 
-<details>
-<summary><b>🔍 جزئیات بیشتر درباره‌ی قابلیت‌ها (برای باز شدن کلیک کن)</summary>
+<details markdown="1">
+<summary><b>🔍 جزئیات بیشتر درباره‌ی قابلیت‌ها (برای باز شدن کلیک کن)</b></summary>
 
 <br/>
 
@@ -128,7 +128,7 @@ H<sub>2</sub>O و E = mc<sup>2</sup> هم از نوشتن بالانویس و ز
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary><b>🎁 این بخش به‌صورت پیش‌فرض بازه</b></summary>
 
 <br/>
@@ -153,12 +153,12 @@ H<sub>2</sub>O و E = mc<sup>2</sup> هم از نوشتن بالانویس و ز
 
 <table>
 <tr>
-<td>
+<td markdown="1">
 
 **🍺 Homebrew**
 
 </td>
-<td>
+<td markdown="1">
 
 ```bash
 brew install your-username/tap/pulse
@@ -167,12 +167,12 @@ brew install your-username/tap/pulse
 </td>
 </tr>
 <tr>
-<td>
+<td markdown="1">
 
 **🐹 Go**
 
 </td>
-<td>
+<td markdown="1">
 
 ```bash
 go install github.com/your-username/pulse@latest
@@ -181,12 +181,12 @@ go install github.com/your-username/pulse@latest
 </td>
 </tr>
 <tr>
-<td>
+<td markdown="1">
 
 **🐧 اسکریپت نصب**
 
 </td>
-<td>
+<td markdown="1">
 
 ```bash
 curl -fsSL https://pulse.dev/install.sh | sh
@@ -195,12 +195,12 @@ curl -fsSL https://pulse.dev/install.sh | sh
 </td>
 </tr>
 <tr>
-<td>
+<td markdown="1">
 
 **🪟 Scoop**
 
 </td>
-<td>
+<td markdown="1">
 
 ```powershell
 scoop install pulse
@@ -209,12 +209,12 @@ scoop install pulse
 </td>
 </tr>
 <tr>
-<td>
+<td markdown="1">
 
 **🐳 Docker**
 
 </td>
-<td>
+<td markdown="1">
 
 ```bash
 docker run --rm -it --pid=host ghcr.io/your-username/pulse
@@ -621,7 +621,7 @@ endsolid pulse_pyramid
 <a name="-faq"></a>
 ## ❓ سوالات متداول
 
-<details>
+<details markdown="1">
 <summary><b>آیا Pulse رایگانه؟</b></summary>
 
 <br/>
@@ -630,7 +630,7 @@ endsolid pulse_pyramid
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>آیا اطلاعاتی به سرور ارسال می‌شه؟</b></summary>
 
 <br/>
@@ -639,7 +639,7 @@ endsolid pulse_pyramid
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>چطور یه تم جدید بسازم؟</b></summary>
 
 <br/>
@@ -657,7 +657,7 @@ colors:
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>در ترمینال من کاراکترها خراب نمایش داده می‌شن!</b></summary>
 
 <br/>
@@ -704,7 +704,7 @@ colors:
 <a name="-contributors"></a>
 ## 👥 مشارکت‌کنندگان
 
-<div align="center">
+<div align="center" markdown="1">
 
 <a href="https://github.com/your-username/pulse/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=your-username/pulse" alt="Contributors" />
@@ -744,7 +744,7 @@ colors:
 
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 <br/>
 
